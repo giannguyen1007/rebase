@@ -1,6 +1,6 @@
-123456
+// 123456
 223456
-add middle line
+// add middle line
 feature1
 newfeature
 - master cc
